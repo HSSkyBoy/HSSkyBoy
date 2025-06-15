@@ -1,8 +1,5 @@
-<p align="center">
-  	<!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
-	<!-- 动漫少女举牌 访问次数统计 -->
-    <img src="https://count.getloli.com/get/@HSSkyBoy.github.readme?theme=minecraft" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
-</p>
+<img src="https://count.getloli.com/get/@HSSkyBoy.github.readme?theme=minecraft" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+
 
 # 😇 HSSkyBoy | Android 逆向工程開發者
 ![Image](https://github.com/user-attachments/assets/0feac0a6-f906-402b-b1b3-25720b07f2af)
@@ -73,7 +70,6 @@ Android 版 Minecraft: Java Edition 啟動器網站
 [![BiliBili](https://img.shields.io/badge/嗶哩嗶哩-@NkBe-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/610722152)
 [![Email](https://img.shields.io/badge/技術合作-郵件聯絡-D14836?style=flat&logo=gmail)](mailto:nikobeillc@outlook.com)
 
----
 ---
 
 > **開源理念**  
