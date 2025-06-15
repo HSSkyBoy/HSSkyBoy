@@ -35,10 +35,6 @@
 基於 KernelSU 的 Android 裝置 root 方案  
 `核心模組` `安全增強` `裝置相容`
 
-[![OP-GKI-Actions](https://img.shields.io/badge/⚙️_OP_GKI_Actions-一加核心構建-FF0000?style=flat)](https://github.com/HSSkyBoy/OP-GKI-Actions)  
-GitHub Actions 自動化編譯一加裝置核心  
-`持續整合` `內核定製` `自動化構建`
-
 ### 代理工具
 [![Hiddify](https://img.shields.io/badge/🌐_Hiddify-多協議代理客戶端-1E88E5?style=flat)](https://github.com/HSSkyBoy/Hiddify)  
 支援 VMess/VLess/Trojan 的多平臺代理客戶端  
