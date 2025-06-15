@@ -1,7 +1,13 @@
+<p align="center">
+  	<!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
+	<!-- 动漫少女举牌 访问次数统计 -->
+    <img src="https://count.getloli.com/get/@HSSkyBoy.github.readme?theme=minecraft" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+</p>
+
 # 😇 HSSkyBoy | Android 逆向工程開發者
+![Image](https://github.com/user-attachments/assets/0feac0a6-f906-402b-b1b3-25720b07f2af)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSSkyBoy&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)](https://github.com/HSSkyBoy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSSkyBoy&layout=compact&theme=radical&hide=html)](https://github.com/HSSkyBoy)
 
 **你好 👋！我是 HSSkyBoy**  
 專注於 Android 逆向工程與工具開發的技術創作者，在嗶哩嗶哩以 **NkBe** 身份分享各種內容。
@@ -24,7 +30,7 @@
 ## 🏆 精選項目
 
 ### 系統工具
-[![NPatch](https://img.shields.io/badge/📱_NPatch-免Root XP框架-8A2BE2?style=flat)](https://github.com/HSSkyBoy/NPatch)  
+[![NPatch](https://img.shields.io/badge/📱_NPatch-免Root_XP框架-8A2BE2?style=flat)](https://github.com/HSSkyBoy/NPatch)  
 基於 LSPosed 的 免Root Xposed 框架解決方案 (轉為私有開發)  
 `逆向工程` `模組注入` `系統框架`
 
@@ -67,6 +73,7 @@ Android 版 Minecraft: Java Edition 啟動器網站
 [![BiliBili](https://img.shields.io/badge/嗶哩嗶哩-@NkBe-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/610722152)
 [![Email](https://img.shields.io/badge/技術合作-郵件聯絡-D14836?style=flat&logo=gmail)](mailto:nikobeillc@outlook.com)
 
+---
 ---
 
 > **開源理念**  
