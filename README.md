@@ -4,8 +4,7 @@
 # 😇 HSSkyBoy | Android 逆向工程開發者
 ![Image](https://github.com/user-attachments/assets/0feac0a6-f906-402b-b1b3-25720b07f2af)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSSkyBoy&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)](https://github.com/HSSkyBoy)
-
+![GitHub Sats](https://github-readme-stats-one-bice.vercel.app/api?username=HSSkyBoy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 **你好 👋！我是 HSSkyBoy**  
 專注於 Android 逆向工程與工具開發的技術創作者，在嗶哩嗶哩以 **NkBe** 身份分享各種內容。
 
