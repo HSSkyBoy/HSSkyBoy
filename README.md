@@ -62,7 +62,7 @@ Android 版 Minecraft: Java Edition 啟動器網站
 ## 💌 聯絡與交流
 
 [![GitHub](https://img.shields.io/badge/GitHub_交流-檢視項目-181717?style=flat&logo=github)](https://github.com/HSSkyBoy)
-[![BiliBili](https://img.shields.io/badge/嗶哩嗶哩-@NkBe-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/610722152)
+[![BiliBili](https://img.shields.io/badge/@NkBe-哔哩哔哩-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/610722152)
 [![Email](https://img.shields.io/badge/技術合作-郵件聯絡-D14836?style=flat&logo=gmail)](mailto:nikobeillc@outlook.com)
 
 ---
