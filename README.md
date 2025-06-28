@@ -30,7 +30,7 @@
 基於 LSPosed 的 免Root Xposed 框架解決方案 (轉為私有開發)  
 `逆向工程` `模組注入` `系統框架`
 
-[![SSUU](https://img.shields.io/badge/🔓_SSUU-KernelSU_解決方案-FF6600?style=flat)](https://github.com/HSSkyBoy/SSUU)  
+[![SukiSU Ultra](https://img.shields.io/badge/🔓_SukiSU-KernelSU_解決方案-FF6600?style=flat)](https://github.com/SukiSU-Ultra/SukiSU-Ultra)  
 基於 KernelSU 的 Android 裝置 root 方案  
 `核心模組` `安全增強` `裝置相容`
 
