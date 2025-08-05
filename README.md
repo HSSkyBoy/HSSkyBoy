@@ -5,6 +5,7 @@
 ![Image](https://github.com/user-attachments/assets/0feac0a6-f906-402b-b1b3-25720b07f2af)
 
 ![GitHub Sats](https://github-readme-stats-one-bice.vercel.app/api?username=HSSkyBoy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
 **你好 👋！我是 HSSkyBoy**  
 專注於 Android 逆向工程與工具開發的技術創作者，在嗶哩嗶哩以 **NkBe** 身份分享各種內容。
 
@@ -34,10 +35,6 @@
 基於 KernelSU 的 Android 裝置 root 方案  
 `核心模組` `安全增強` `裝置相容`
 
-### 代理工具
-[![Hiddify](https://img.shields.io/badge/🌐_Hiddify-多協議代理客戶端-1E88E5?style=flat)](https://github.com/HSSkyBoy/Hiddify)  
-支援 VMess/VLess/Trojan 的多平臺代理客戶端  
-`網路協議` `流量轉發` `跨平臺`
 
 ### 應用增強
 [![BiliRoamingX](https://img.shields.io/badge/📺_BiliRoamingX-B站增強模組-00A1D6?style=flat)](https://github.com/HSSkyBoy/BiliRoamingX)  
