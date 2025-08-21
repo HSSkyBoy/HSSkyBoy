@@ -27,8 +27,8 @@
 ## 🏆 精選項目
 
 ### 系統工具
-[![NPatch](https://img.shields.io/badge/📱_NPatch-免Root_XP框架-8A2BE2?style=flat)](https://github.com/HSSkyBoy/NPatch)  
-基於 LSPosed 的 免Root Xposed 框架解決方案 (轉為私有開發)  
+[![NPatch](https://img.shields.io/badge/📱_NPatch-免Root_XP框架-8A2BE2?style=flat)](https://github.com/7723mod/NPatch)  
+基於 LSPosed 的 免Root Xposed 框架解決方案
 `逆向工程` `模組注入` `系統框架`
 
 [![SukiSU Ultra](https://img.shields.io/badge/🔓_SukiSU-KernelSU_解決方案-FF6600?style=flat)](https://github.com/SukiSU-Ultra/SukiSU-Ultra)  
