@@ -6,8 +6,7 @@
 
 ![GitHub Sats](https://github-readme-stats-one-bice.vercel.app/api?username=HSSkyBoy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-**你好 👋！我是 HSSkyBoy**  
-專注於 Android 逆向工程與工具開發的技術創作者，在嗶哩嗶哩以 **NkBe** 身份分享各種內容。
+**你好 👋！我是 HSSkyBoy** 專注於 Android 逆向工程與工具開發的技術創作者，在嗶哩嗶哩以 **NkBe** 身份分享各種內容。
 
 ---
 
@@ -24,31 +23,23 @@
 
 ---
 
-## 🏆 精選項目
+## 🏆 精選项目
 
-### 系統工具
 [![NPatch](https://img.shields.io/badge/📱_NPatch-免Root_XP框架-8A2BE2?style=flat)](https://github.com/7723mod/NPatch)  
-基於 LSPosed 的 免Root Xposed 框架解決方案
+基於 LSPosed 的 免Root Xposed 框架解決方案  
 `逆向工程` `模組注入` `系統框架`
 
 [![SukiSU Ultra](https://img.shields.io/badge/🔓_SukiSU-KernelSU_解決方案-FF6600?style=flat)](https://github.com/SukiSU-Ultra/SukiSU-Ultra)  
-基於 KernelSU 的 Android 裝置 root 方案  
-`核心模組` `安全增強` `裝置相容`
+基於 KernelSU 的 Android 裝置 root 方案   
+`核心模組` `安全增強` `Root 方案`
 
+[![MikuBox](https://img.shields.io/badge/🪜_MikuBox-通用代理程序-00C5CD?style=flat)](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid)  
+NekoBox 的美化增強分支，一款使用 sing-box 的 Android 通用代理程式.  
+`SingBox` `介面美化` `代理程式`
 
-### 應用增強
 [![BiliRoamingX](https://img.shields.io/badge/📺_BiliRoamingX-B站增強模組-00A1D6?style=flat)](https://github.com/HSSkyBoy/BiliRoamingX)  
 基於 ReVanced 的 Bilibili 客戶端增強模組  
 `ReVanced模組` `功能擴充套件` `逆向分析`
-
-[![ss-plugin-alive](https://img.shields.io/badge/🎵_ss_plugin_alive-音樂源API-1DB954?style=flat)](https://github.com/HSSkyBoy/ss-plugin-alive)  
-MusicFree/洛雪音樂 的音源外掛  
-`外掛開發` `音樂解析` `API整合`
-
-### 遊戲開發
-[![FCL.website](https://img.shields.io/badge/🎮_FCL.website-MCJE啟動器網站-62B47A?style=flat)](https://github.com/HSSkyBoy/FCL.website)  
-Android 版 Minecraft: Java Edition 啟動器網站  
-`遊戲啟動器` `Web開發` `遊戲社群`
 
 [![PetPhraseX](https://img.shields.io/badge/⚔️_PetPhraseX-MC口癖模組-5D4037?style=flat)](https://github.com/HSSkyBoy/PetPhraseX)  
 為 Minecraft 新增口癖功能的 Fabric 模組  
@@ -64,8 +55,7 @@ Android 版 Minecraft: Java Edition 啟動器網站
 
 ---
 
-> **開源理念**  
-> "優秀工具應當自由使用與迭代"  
+> **開源理念** > "優秀工具應當自由使用與迭代"  
 > 所有項目盡力遵循開源協議，歡迎提交 PR！
 
-🚀 持續探索 Android 底層開發中...
+🚀 持續深耕 Android 技術，探索永不止步...
