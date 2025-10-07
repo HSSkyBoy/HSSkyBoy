@@ -6,7 +6,7 @@
 
 ![GitHub Sats](https://github-readme-stats-one-bice.vercel.app/api?username=HSSkyBoy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-**你好 👋！我是 HSSkyBoy** 專注於 Android 逆向工程與工具開發的技術創作者，在嗶哩嗶哩以 **NkBe** 身份分享各種內容。
+**你好 👋！我是 HSSkyBoy**  一個專注於 Android 逆向工程與工具開發的技術創作者，在 B2 以 **NkBe** 身份分享各種內容。
 
 ---
 
