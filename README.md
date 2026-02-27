@@ -1,5 +1,7 @@
 <img src="https://count.getloli.com/get/@HSSkyBoy.github.readme?theme=minecraft" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 
+<a href="http://s01.flagcounter.com/more/hsskyboy"><img src="https://s01.flagcounter.com/countxl/hsskyboy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 # 😇 HSSkyBoy | Android 逆向工程開發者
 ![Image](https://github.com/user-attachments/assets/0feac0a6-f906-402b-b1b3-25720b07f2af)
