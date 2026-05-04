@@ -53,6 +53,15 @@ NekoBox 的美化增強分支，一款使用 sing-box 的 Android 通用代理�
 
 ---
 
+## 💖 贊助支持
+給我點個小小的贊（指錢包），讓我知道還有人在等更新！
+
+<p align="center">
+  <img src="./WeChat_Pay.jpg" alt="WeChat 支付贊助" width="320" />
+</p>
+
+---
+
 > **開源理念** > "優秀工具應當自由使用與迭代"  
 > 所有項目盡力遵循開源協議，歡迎提交 PR！
 
