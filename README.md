@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/NeoForge-FF7139?style=flat&logo=firefoxbrowser&logoColor=white" alt="NeoForge" />
 </p>
 
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=HSSkyBoy&layout=compact)
+
 ## 精選專案
 
 ### [NPatch](https://github.com/7723mod/NPatch)
