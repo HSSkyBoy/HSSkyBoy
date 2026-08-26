@@ -4,7 +4,7 @@
 
 <h1 align="center">HSSkyBoy</h1>
 <p align="center">
-  Android 逆向工程 · 框架工具開發 · Minecraft 模組開發
+  Android Reverse Engineering · Framework Tooling · Minecraft Modding
 </p>
 
 <p align="center">
@@ -26,18 +26,21 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=HSSkyBoy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub stats" />
 </p>
 
-## 關於我
-你好，我是 **HSSkyBoy**，也會用 **NkBe** 這個名字活動。
+## About Me
 
-我是一名**男高中生**，長期專注在 Android 逆向工程、系統注入框架、客戶端功能增強，以及 Minecraft 模組開發。比起只做表面功能，我更喜歡深入到底層機制，把「能用」打磨成「穩定、可維護、可延續」。
+Hi, I'm **HSSkyBoy** — also known as **NkBe**.
 
-## 方向
-- Android 逆向工程與運行期插樁
-- Xposed、Zygote、KernelSU 等相關框架工具
-- 客戶端功能增強、相容性處理與架構整理
-- Minecraft 模組（實用玩法、跨版本支援）
+I'm a student developer focused on Android reverse engineering, runtime injection frameworks, client-side feature enhancement, and Minecraft modding. I care less about surface-level features and more about understanding the underlying mechanics — turning "it works" into "it's stable, maintainable, and built to last" (穩定、可維護、可延續).
 
-## 技術棧
+## Focus Areas
+
+- Android reverse engineering & runtime instrumentation
+- Xposed, Zygote, and KernelSU-adjacent framework tooling
+- Client feature enhancement, compatibility handling, and architecture cleanup
+- Minecraft mods (practical gameplay features, cross-version support)
+
+## Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
@@ -49,69 +52,82 @@
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=HSSkyBoy&layout=compact)
 
-## 精選專案
+## Featured Projects
 
 ### [NPatch](https://github.com/7723mod/NPatch)
 
-基於 Vector 生態的免 Root Xposed 框架解決方案。
+A rootless Xposed framework solution built on the Vector ecosystem.
 
-- 延續 LSPatch 歸檔後留下的實用價值與社群需求
-- 聚焦相容性、框架穩定性，以及真實場景的模組可用性
-- 以 Android 逆向工程、模組注入與系統級工具為核心
+- Carries forward the practical value and community demand left behind after LSPatch's archival
+- Focused on compatibility, framework stability, and real-world module usability
+- Centered on Android reverse engineering, module injection, and system-level tooling
 
 `Android` `Xposed` `Framework` `Reverse Engineering`
 
 ### [SukiSU Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 
-基於 KernelSU 的 Android Root 方案。
+A KernelSU-based Android root solution.
 
-- 強調底層能力擴展與安全導向的增強
-- 面向系統改造與進階 Android 工具鏈場景
+- Emphasizes low-level capability extension with a security-first mindset
+- Built for system modification and advanced Android tooling scenarios
 
 `KernelSU` `Root` `System Modules`
 
 ### [MikuBox](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid)
 
-基於 sing-box 的 NekoBox 美化增強分支。
+A visually enhanced fork of NekoBox, built on sing-box.
 
-- 在通用 Android 代理流程上，提供更完整的視覺自訂
-- 把實用的網路能力，搭配更有辨識度的介面風格
+- Adds richer visual customization on top of a general-purpose Android proxy client
+- Pairs practical networking capability with a more distinctive interface
 
 `sing-box` `Proxy` `Android Client`
 
 ### [BoatFly](https://github.com/7723mod/BoatFly)
 
-Minecraft Android Boat 深度適配與底層控制向專案。
+Deep boat-mechanics adaptation and low-level control for Minecraft on Android.
 
-- 聚焦跨版本相容性與底層適配策略
-- 以工程化方式處理不同版本行為差異與穩定性問題
-- 專案頁與介紹站點：https://www.nkbe.top/boatfly
+- Focused on cross-version compatibility and low-level adaptation strategy
+- Engineering-driven approach to handling behavioral differences and stability across versions
+- Project site: https://www.nkbe.top/boatfly
 
-`Minecraft` `Fabric` `底層適配` `跨版本相容`
+`Minecraft` `Fabric` `Low-Level Adaptation` `Cross-Version Compatibility`
 
 ### [PetPhraseX](https://github.com/HSSkyBoy/PetPhraseX)
 
-為 Minecraft 增加可自訂「口癖」效果的輕量模組。
+A lightweight Minecraft mod for customizable chat "pet phrases" (口癖).
 
-- 支援玩家自訂前綴、後綴與隨機表達效果
-- 以輕量為設計目標，同時兼顧主流載入器生態的相容性
+- Supports custom prefixes, suffixes, and randomized expression effects
+- Designed to stay lightweight while remaining compatible across major mod loaders
 
-`Minecraft` `Fabric` `NeoForge` `跨版本相容`
+`Minecraft` `Fabric` `NeoForge` `Cross-Version Compatibility`
 
-## 我在意的事
-- 讓進階工具不只專家能用，也能更普及、更易上手
-- 當上游專案停更或放緩時，延續生態價值與可用性
-- 用工程深度解相容性問題，而不是只打表面補丁
-- 讓開源保持實用、可擴展，也保留「好玩」
+### [NigramX](https://github.com/NigramX/NekoGram)
 
-## 聯絡
+A Telegram Android fork focused on stability and deeper client-side customization.
+
+- Ongoing crash diagnostics and architectural fixes, including `WindowInsets` API-level mismatches and drawable re-entry issues
+- Prompt engineering and hardening of an in-app LLM translation module (`LLMTranslator.kt`)
+- Focused on turning community-driven features into stable, maintainable client behavior
+
+`Android` `Kotlin` `Telegram` `Client Enhancement`
+
+## What I Care About
+
+- Making advanced tooling accessible — not just usable by experts
+- Keeping an ecosystem alive when upstream projects stall or go quiet
+- Solving compatibility problems with real engineering depth, not surface patches
+- Keeping open source practical, extensible, and still fun
+
+## Contact
+
 - Telegram: [@nikobe918](https://t.me/nikobe918)
 - GitHub: [@HSSkyBoy](https://github.com/HSSkyBoy)
 - BiliBili: [@NkBe](https://space.bilibili.com/610722152)
-- Email: [nikobeillc@outlook.com](mailto:nikobeillc@outlook.com)
+- Email: [nikobe918@outlook.com](mailto:nikobe918@outlook.com)
 
-## 贊助
-給我點個小小的贊（指錢包），讓我知道還有人在等更新！
+## Support
+
+If you'd like to support ongoing development, a small donation is always appreciated!
 
 <p align="center">
   <img src="./WeChat_Pay.jpg" alt="WeChat Pay" width="320" />
@@ -119,7 +135,8 @@ Minecraft Android Boat 深度適配與底層控制向專案。
 
 ---
 
-> **開源理念** > "優秀工具應當自由使用與迭代"  
+> **開源理念**  
+> "優秀工具應當自由使用與迭代"  
 > 所有項目盡力遵循開源協議，歡迎提交 PR！
 
-🚀 持續深耕 Android 技術，探索永不止步...
+🚀 Always digging deeper into Android internals, always exploring...
