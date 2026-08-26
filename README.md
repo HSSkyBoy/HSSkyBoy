@@ -50,7 +50,7 @@ I'm a student developer focused on Android reverse engineering, runtime injectio
   <img src="https://img.shields.io/badge/NeoForge-FF7139?style=flat&logo=firefoxbrowser&logoColor=white" alt="NeoForge" />
 </p>
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=HSSkyBoy&layout=compact)
+![[Top Langs]](https://github-readme-stats.shion.dev/api/top-langs/?username=HSSkyBoy&layout=compact&exclude_repo=GTA4.CHS,NoCoolCoffee)
 
 ## Featured Projects
 
