@@ -101,7 +101,7 @@ A lightweight Minecraft mod for customizable chat "pet phrases" (口癖).
 
 `Minecraft` `Fabric` `NeoForge` `Cross-Version Compatibility`
 
-### [NigramX](https://github.com/NigramX/NekoGram)
+### [NiagramX](https://github.com/HSSkyBoy/NiagramX)
 
 A Telegram Android fork focused on stability and deeper client-side customization.
 
