@@ -12,7 +12,7 @@
   <a href="https://space.bilibili.com/610722152">
     <img src="https://img.shields.io/badge/BiliBili-NkBe-00A1D6?style=for-the-badge&logo=bilibili" alt="BiliBili" />
   </a>
-  <a href="mailto:nikobeillc@outlook.com">
+  <a href="mailto:nikobe918@outlook.com">
     <img src="https://img.shields.io/badge/Email-Technical%20Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
@@ -116,7 +116,7 @@ I'm a student developer focused on Android reverse engineering, runtime injectio
 - Telegram: [@nikobe918](https://t.me/nikobe918)
 - GitHub: [@HSSkyBoy](https://github.com/HSSkyBoy)
 - BiliBili: [@NkBe](https://space.bilibili.com/610722152)
-- Email: [nikobeillc@outlook.com](mailto:nikobeillc@outlook.com)
+- Email: [nikobe918@outlook](nikobe918@outlook.com)
 
 ## Support
 
